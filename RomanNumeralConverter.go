@@ -1,5 +1,5 @@
 package romanNumerals
 
-func convert(input int) string {
-	return ""
+func convert(input string) int {
+	return 0
 }
